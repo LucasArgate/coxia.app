@@ -24,6 +24,23 @@ O Coxia app tem o objetivo de reunir todos os aspectos que os atores precisam pa
 # Marketing share
 Pesquisar se existe alguma solução para atores no mercado
 
+# Features MVP
+Requisitos funcionais:
+- [ ] Login por Google
+- [ ] Login por Facebook
+- [X] Adicionar Peça
+- [X] Adicionar Personagem
+- [X] Gravar falas
+- [ ] Compartilhar com link
+- [ ] Conceder persmissão de gravação
+- [X] Modo treino (com lacunas para falar)
+- [ ] PWA
+
+Ideias:
+- [ ] Adicionar coluna para efeitos sonoros e músicas
+- [ ] Adicionar sistema de controle de materiais (custos e divisões)
+- [ ] Adicionar controle de peças por companhia
+
 # Demo
 Um App público para testar suas falas com lacunas.
 
