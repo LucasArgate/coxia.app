@@ -27,7 +27,7 @@ Pesquisar se existe alguma solução para atores no mercado:
 ##Elenco Digital
 é um ambiente de trabalho integrado e colaborativo. O sistema que organiza material artístico, onde os produtores de casting pesquisam por talentos, especialmente para projetos da indústria audiovisual em cinema, publicidade e televisão.
 
-O cadastro como ELENCO é gratuito e permite incluir seu perfil artístico na vitrine democrática para talentos, que envolve agentes, agências, produtores e diretores de casting: (Website)[https://elencodigital.com.br/];
+O cadastro como ELENCO é gratuito e permite incluir seu perfil artístico na vitrine democrática para talentos, que envolve agentes, agências, produtores e diretores de casting: [Website](https://elencodigital.com.br/)
 
 
 # Features MVP
