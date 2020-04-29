@@ -24,10 +24,17 @@ O Coxia app tem o objetivo de reunir todos os aspectos que os atores precisam pa
 # Marketing share
 Pesquisar se existe alguma solução para atores no mercado:
 	
-##Elenco Digital
+## Elenco Digital
 é um ambiente de trabalho integrado e colaborativo. O sistema que organiza material artístico, onde os produtores de casting pesquisam por talentos, especialmente para projetos da indústria audiovisual em cinema, publicidade e televisão.
 
 O cadastro como ELENCO é gratuito e permite incluir seu perfil artístico na vitrine democrática para talentos, que envolve agentes, agências, produtores e diretores de casting: [Website](https://elencodigital.com.br/)
+
+## Job For Model
+Solução focada papar seleção de elenco. Uma forma de publicar o perfil de elenco para jobs. Por sua vez, os produtores podem encontrar as pessoas conforme o perfil.
+- Acompanhamento da equipe de suporte até a conclusão do trabalho
+- Modelos profissionais avaliados por outras empresas
+- Defina o cachê, publique gratuitamente e pague somente quando contratar
+- Jobs resolvidos rapidamente
 
 
 # Features MVP
