@@ -35,11 +35,15 @@ Requisitos funcionais:
 - [ ] Conceder persmissão de gravação
 - [X] Modo treino (com lacunas para falar)
 - [ ] PWA
+- [ ] Gravar versões novas de audios (conforme incorporar o personagem) | histórico de versões
+
 
 Ideias:
 - [ ] Adicionar coluna para efeitos sonoros e músicas
 - [ ] Adicionar sistema de controle de materiais (custos e divisões)
 - [ ] Adicionar controle de peças por companhia
+- [ ] Conversão de fala para texto (conforme o ator fala o sistema converte em texto)
+- [ ] Upolad de texto e converte as falas que o ator deve dizer
 
 # Demo
 Um App público para testar suas falas com lacunas.
