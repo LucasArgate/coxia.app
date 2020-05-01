@@ -1,0 +1,83 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
+
+.cor-item{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    float:left; 
+    margin-right: 11px;
+    margin-bottom: 8px;
+}
+
+.cor-item.active{
+    box-shadow: 0px 0px 5px 4px blue;
+}
+
+
+.navbar-nav .dropdown-menu{
+    position: absolute;
+}
+
+.ator-item-bull{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: -3px;
+}
+
+.falas{
+    list-style: none;
+    padding:0;
+}
+
+.fala-item-content{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 11px;
+}
+
+.fala-item-content h4{
+    line-height: 44px;
+    color: #2d2d2d;
+}
+
+.fala-item-content.active{
+    box-shadow: 0px 0px 13px 4px #666;
+}
+
+.no-margin{
+    margin:0;
+    padding:0;
+}
+
+.no-padding{
+    padding:0;
+}
+
+.player button{
+    padding:0;
+}
+
+.player button i{
+    font-size:44px;
+    color: #2d2d2d;
+}
+
+.player .currentTime{
+    line-height: 45px;
+    margin: 0;
+    margin-left: 14px;
+}
+
+.nav-item{
+    float:left;
+}
+
+.navbar-nav{
+    display: initial;
+}
