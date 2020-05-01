@@ -1,6 +1,6 @@
 # coxia.app
 Sabemos que atualmente, com o crescimento de necessidade de preparar atores para um novo mundo de produção para internet, requer conhecimento para atuação. Cada pessoa tem um ator dentro de sí, pois no fundo, ser ator na verdade **é se preparar para atuar**.
-Com base no livro "Preparação do Ator" de Constantin Stanislavsky, referência de 1897 é claro a dificuldade de retenção do texto e quando ensaiado em grupo existe o tempo de adaptação da fala. ~~Uma vez o texto é decorado (em casa), dependendo do tamanho da peça, leva de 3 a 6 meses de adaptação (conforme a experiência do ator)~~.
+Com base no livro "Preparação do Ator" de Constantin Stanislavsky, referência de 1936 é claro a dificuldade de retenção do texto e quando ensaiado em grupo existe o tempo de adaptação da fala. ~~Uma vez o texto é decorado (em casa), dependendo do tamanho da peça, leva de 3 a 6 meses de adaptação (conforme a experiência do ator)~~.
 
 # O problema
 ## Para o ator (preparação para atuação)
@@ -21,8 +21,11 @@ No começo da peça, o diretor junto com o elenco, fazem testes de personagens e
 # Proposta
 O Coxia app tem o objetivo de reunir todos os aspectos que os atores precisam para montagem de peça. Decorar textos, organizar falas, compartilhar texto e falas com outros atores, custos de montagem de peça, efeitos sonoros e tempo de troca de estado de palco, são organizados de forma cronológica da peça. Assim, cada ator pode decorar, repetindo as falas dos outros atores com lacunas de suas falas.
 - Grave suas falas
-- Envie para outros atores gravarem também
-- Ouça outras falas com as suas em "branco" para você falar.
+- Envie para outros atores gravarem a fala deles.
+- Ouça outras falas com as suas em "branco" para você falar, como uma lacuna para ser preenchida com suas falas. (Decorar falas)
+- Permite o diretor ou o sonoplasta adicionar uma coluna com a paisagem sonora e o ator consegue treinar com isso junto.
+- Relatório de intensidade dos atores, uma forma do diretor saber quem lê a peça mais vezes, quem interage mais.
+- Versões das falas, conforme o ator incorpora o personagem, ele muda a fala e seu tempo, poder alterar as falas conforme evluir.
 
 ## Sonoplastia 
 Estudar mais sobre a [paisagem sonora!](https://teatronasaladeaula.com.br/o-som-da-cena/)
