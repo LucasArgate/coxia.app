@@ -51,7 +51,7 @@ Solução focada papar seleção de elenco. Uma forma de publicar o perfil de el
 # Features MVP
 Requisitos funcionais:
 - [ ] Login por Google
-- [ ] Login por Facebook
+- [X] Login por Facebook
 - [X] Adicionar Peça
 - [X] Adicionar Personagem
 - [X] Gravar falas
