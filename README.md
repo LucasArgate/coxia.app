@@ -1,4 +1,8 @@
 # coxia.app
+Essa missão tem o objetivo de auxiliar uma apresentação de fala e gestos na sua fase de preparação. Quando há domínio do texto que vai dizer em uma apresentação, seja teatral ou um simples pitch, o ator fica livre para trabalhar o resto da apresentação: Para onde puxar os assuntos, para onde andar no palco, onde brincar e onde conseguir dar ênfases.
+
+Uma plataforma que permite o ator se preparar através de audios que ele mesmo grava, e organiza numa sequência e consegue produzir remotamente.
+
 Sabemos que atualmente, com o crescimento de necessidade de preparar atores para um novo mundo de produção para internet, requer conhecimento para atuação. Cada pessoa tem um ator dentro de sí, pois no fundo, ser ator na verdade **é se preparar para atuar**.
 Com base no livro "Preparação do Ator" de Constantin Stanislavsky, referência de 1936 é claro a dificuldade de retenção do texto e quando ensaiado em grupo existe o tempo de adaptação da fala. ~~Uma vez o texto é decorado (em casa), dependendo do tamanho da peça, leva de 3 a 6 meses de adaptação (conforme a experiência do ator)~~.
 
