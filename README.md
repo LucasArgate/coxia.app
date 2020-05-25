@@ -8,10 +8,11 @@ A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da cai
 Lembrando toda atividade que não contribui para o aprendizado do cliente é considerado desperdício.
 
 ## Hipótese I:
+**O que?**
 Decorar textos respeitando o tempo de respostas de outras ações de palco.
 
 **Por quê?**
-Quando há domínio do texto para apresentação teatral o ator fica livre para trabalhar as outras atividades:
+Quando há domínio do texto para apresentação teatral, o ator fica livre para trabalhar as outras atividades:
 - qual é tempo de resposta de outros atores;
 - quais são as deixas (gatilhos para próximas falas);
 - trabalhar noção especial de palco;
@@ -22,7 +23,7 @@ Quando há domínio do texto para apresentação teatral o ator fica livre para 
 
 **Como?**
 O processo de repetição auditiva retém a informação rapidamente por poder ouvir a peça como um todo em qualquer momento.
-(Fonte: Times New Roman)
+([Fonte](http://www.embap.pr.gov.br/arquivos/File/A_A_NOVA_DIRETORIA/EVENTOS_BELAS/Memoria_musical_Tsi_Gerber.pdf) )
 
 **Onde?**
 plataforma que permite o ator se preparar, gravando audios das falas dos textos que dirá e organizar em sequência de fala. Assim é possível definir quais falas cabe a ele dizer, e quais falas os demais vão dizer, permitindo o ator reproduzir as falas deixando apenas a suas em "lacuna" para falar no tempo certo, aprender as deixas (gatilhos) e memorizar mais rapidamente a peça.
