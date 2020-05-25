@@ -1,6 +1,9 @@
 # coxia.app
 Objetivo de auxiliar uma apresentação de falas e gestos na sua fase de preparação para atuação.
 
+## O que é coxia?
+A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da caixa teatral - mas fora de cena - no palco italiano, em que o elenco aguarda sua deixa para entrar em cena em uma peça teatral. ([Wikipedia](https://pt.wikipedia.org/wiki/Coxia))
+
 ## Validando premissas de negócios
 Lembrando toda atividade que não contribui para o aprendizado do cliente é considerado desperdício.
 
@@ -30,9 +33,6 @@ Com base no livro "Preparação do Ator" de Constantin Stanislavsky, referência
 
 ## Hipótese III:
 A necessidade de apresentar 
-
-## O que é coxia?
-A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da caixa teatral - mas fora de cena - no palco italiano, em que o elenco aguarda sua deixa para entrar em cena em uma peça teatral. ( (https://pt.wikipedia.org/wiki/Coxia)[Wikipedia])
 
 # O problema
 ## Para o ator (preparação para atuação)
