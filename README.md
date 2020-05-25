@@ -22,7 +22,7 @@ Quando há domínio do texto para apresentação teatral o ator fica livre para 
 
 **Como?**
 O processo de repetição auditiva retém a informação rapidamente por poder ouvir a peça como um todo em qualquer momento.
-(Referência  do que isso?)
+(Fonte: Times New Roman)
 
 **Onde?**
 plataforma que permite o ator se preparar, gravando audios das falas dos textos que dirá e organizar em sequência de fala. Assim é possível definir quais falas cabe a ele dizer, e quais falas os demais vão dizer, permitindo o ator reproduzir as falas deixando apenas a suas em "lacuna" para falar no tempo certo, aprender as deixas (gatilhos) e memorizar mais rapidamente a peça.
