@@ -24,14 +24,14 @@ O processo de repetição auditiva retém a informação rapidamente por poder o
 **Onde?**
 plataforma que permite o ator se preparar, gravando audios das falas dos textos que dirá e organizar em sequência de fala. Assim é possível definir quais falas cabe a ele dizer, e quais falas os demais vão dizer, permitindo o ator reproduzir as falas deixando apenas a suas em "lacuna" para falar no tempo certo, aprender as deixas (gatilhos) e memorizar mais rapidamente a peça.
 
-##Hipótese 2:
+## Hipótese II:
 Sabemos também, que atualmente com o crescimento de necessidade de preparar atores para um novo mundo de produção para internet, requer conhecimento para atuação. Cada pessoa tem um ator dentro de sí, pois no fundo, ser ator na verdade **é se preparar para atuar**.
 Com base no livro "Preparação do Ator" de Constantin Stanislavsky, referência de 1936 é claro a dificuldade de retenção do texto e quando ensaiado em grupo existe o tempo de adaptação da fala. ~~Uma vez o texto é decorado (em casa), dependendo do tamanho da peça, leva de 3 a 6 meses de adaptação (conforme a experiência do ator)~~.
 
-##Hipótese 3:
+## Hipótese III:
 A necessidade de apresentar 
 
-##O que é coxia?
+## O que é coxia?
 A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da caixa teatral - mas fora de cena - no palco italiano, em que o elenco aguarda sua deixa para entrar em cena em uma peça teatral. ( (https://pt.wikipedia.org/wiki/Coxia)[Wikipedia])
 
 # O problema
