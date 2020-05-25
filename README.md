@@ -1,10 +1,38 @@
 # coxia.app
-Essa missão tem o objetivo de auxiliar uma apresentação de fala e gestos na sua fase de preparação. Quando há domínio do texto que vai dizer em uma apresentação, seja teatral ou um simples pitch, o ator fica livre para trabalhar o resto da apresentação: Para onde puxar os assuntos, para onde andar no palco, onde brincar e onde conseguir dar ênfases.
+Objetivo de auxiliar uma apresentação de falas e gestos na sua fase de preparação para atuação.
 
-Uma plataforma que permite o ator se preparar através de audios que ele mesmo grava, e organiza numa sequência e consegue produzir remotamente.
+## Validando premissas de negócios
+Lembrando toda atividade que não contribui para o aprendizado do cliente é considerado desperdício.
 
-Sabemos que atualmente, com o crescimento de necessidade de preparar atores para um novo mundo de produção para internet, requer conhecimento para atuação. Cada pessoa tem um ator dentro de sí, pois no fundo, ser ator na verdade **é se preparar para atuar**.
+## Hipótese I:
+Decorar textos respeitando o tempo de respostas de outras ações de palco.
+
+**Por quê?**
+Quando há domínio do texto para apresentação teatral o ator fica livre para trabalhar as outras atividades:
+- qual é tempo de resposta de outros atores;
+- quais são as deixas (gatilhos para próximas falas);
+- trabalhar noção especial de palco;
+- movimentos em grupos;
+- para onde puxar os assuntos;
+- brincar (em caso de palco aberto ou performance)
+- conseguir trabalhar os subtextos.
+
+**Como?**
+O processo de repetição auditiva retém a informação rapidamente por poder ouvir a peça como um todo em qualquer momento.
+(Referência  do que isso?)
+
+**Onde?**
+plataforma que permite o ator se preparar, gravando audios das falas dos textos que dirá e organizar em sequência de fala. Assim é possível definir quais falas cabe a ele dizer, e quais falas os demais vão dizer, permitindo o ator reproduzir as falas deixando apenas a suas em "lacuna" para falar no tempo certo, aprender as deixas (gatilhos) e memorizar mais rapidamente a peça.
+
+##Hipótese 2:
+Sabemos também, que atualmente com o crescimento de necessidade de preparar atores para um novo mundo de produção para internet, requer conhecimento para atuação. Cada pessoa tem um ator dentro de sí, pois no fundo, ser ator na verdade **é se preparar para atuar**.
 Com base no livro "Preparação do Ator" de Constantin Stanislavsky, referência de 1936 é claro a dificuldade de retenção do texto e quando ensaiado em grupo existe o tempo de adaptação da fala. ~~Uma vez o texto é decorado (em casa), dependendo do tamanho da peça, leva de 3 a 6 meses de adaptação (conforme a experiência do ator)~~.
+
+##Hipótese 3:
+A necessidade de apresentar 
+
+##O que é coxia?
+A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da caixa teatral - mas fora de cena - no palco italiano, em que o elenco aguarda sua deixa para entrar em cena em uma peça teatral. ( (https://pt.wikipedia.org/wiki/Coxia)[Wikipedia])
 
 # O problema
 ## Para o ator (preparação para atuação)
