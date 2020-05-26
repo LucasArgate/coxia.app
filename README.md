@@ -8,6 +8,7 @@ A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da cai
 Lembrando toda atividade que não contribui para o aprendizado do cliente é considerado desperdício.
 
 ## Hipótese I:
+**Listar o que aprender, definir o que medir e decobrir o que construir (MVP).**
 **O que?**
 Decorar textos respeitando o tempo de respostas de outras ações de palco.
 
