@@ -8,7 +8,11 @@ A **coxia** (também chamada de **bastidores**) é o lugar situado dentro da cai
 Lembrando toda atividade que não contribui para o aprendizado do cliente é considerado desperdício.
 
 ## Hipótese I:
-**Listar o que aprender, definir o que medir e decobrir o que construir (MVP).**
+**1. Listar o que aprender:** Se as pessoas atravéz de uma plataforma ajudar a decorar a peça, tipo virtualizar as falas da peça para decorar mais rapido.
+
+**2. Definir o que medir:**  Quantos usuarios ativos - Atores que gravam suas peça e decoram mais rápido. NPS: 0 a 5 se ajudou a gravar a peça mais rápido.
+
+**3. Decobrir o que construir (MVP).**
 
 **O que?**
 Decorar textos respeitando o tempo de respostas de outras ações de palco.
